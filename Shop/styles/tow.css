@@ -1,0 +1,17 @@
+#col-md-4 {
+  margin-left: 10%;
+  float: left;
+  width: 23%;
+}
+
+#form-control {
+  width: 10%;
+}
+
+#tab {
+  margin-left: 30%;
+}
+
+#total {
+  font-size: 130%;
+}

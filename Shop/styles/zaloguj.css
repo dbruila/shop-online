@@ -1,0 +1,19 @@
+h2 {
+  padding-top: 120px;
+  text-align: center;
+}
+.zaloguj {
+  text-align: center;
+  font-size: 140%;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+#log {
+  padding-top: 130px;
+}
+.kont {
+  margin-left: 200px;
+  font-size: 140%;
+}

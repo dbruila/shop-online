@@ -1,0 +1,55 @@
+.dane {
+  width: 60%;
+  float: left;
+}
+
+#dane {
+  margin-top: 5px;
+  font-size: 140%;
+  margin-left: 27%;
+}
+
+#pola_ob {
+  margin-top: -20px;
+  font-size: 100%;
+  color: #d3d5d7;
+}
+
+input {
+  width: 200px;
+  height: 25px;
+}
+
+button {
+  width: 80px;
+  height: 30px;
+  margin-left: 25%;
+}
+
+label {
+  font-size: 120%;
+}
+
+.first {
+  width: 35%;
+  float: left;
+}
+
+.second {
+  width: 60%;
+  float: left;
+  padding-top: 2px;
+}
+
+.third {
+  width: 100%;
+  float: left;
+}
+
+input[type="radio"] {
+  width: 50px;
+  margin-left: -10px;
+}
+p {
+  font-size: 120%;
+}

@@ -1,0 +1,56 @@
+#t {
+  padding-top: 220px;
+  text-align: center;
+}
+
+#o {
+  padding-top: 220px;
+  text-align: center;
+}
+
+.on {
+  margin-left: 350px;
+}
+
+.tw {
+  margin-left: 650px;
+}
+
+#registerBox {
+  margin-left: 450px;
+}
+
+.o {
+  width: 100%;
+  float: left;
+}
+
+.t {
+  width: 30%;
+  float: left;
+}
+
+input {
+  width: 200px;
+  height: 25px;
+}
+
+#button {
+  height: 30px;
+  width: 100px;
+  margin-left: 50px;
+}
+
+label {
+  font-size: 120%;
+}
+
+.first {
+  width: 35%;
+  float: left;
+}
+.second {
+  width: 60%;
+  float: left;
+  padding-top: 2px;
+}
